@@ -7,8 +7,8 @@ public class Demopage1 {
 		
 		System.out.println("Welcome to GIT");
 		System.out.println("Welcome to GITHUB");
-		System.out.println("Edit from GITHUB");
-		System.out.println("Edit from GITHUB");System.out.println("Edit from GITHUB");
+		System.out.println("Edit from GITHUB1");
+		System.out.println("Edit from GITHUB2");System.out.println("Edit from GITHUB3");
 	}
 
 }
