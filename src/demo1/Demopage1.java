@@ -6,7 +6,7 @@ public class Demopage1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Welcome to GIT");
-
+		System.out.println("Welcome to GITHUB");
 	}
 
 }
